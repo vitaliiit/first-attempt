@@ -1,3 +1,8 @@
 this is my first attempt create commit
 add new line
 add one more line
+
+
+simple exaple how work Git Gui
+just another line
+
