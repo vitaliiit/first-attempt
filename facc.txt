@@ -6,4 +6,6 @@ add one more line
 simple exaple how work Git Gui
 just another line
 
+
 ne paskud'meni mij repositorij
+
