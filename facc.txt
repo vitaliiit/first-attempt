@@ -9,5 +9,3 @@ just another line
 
 ne paskud'meni mij repositorij
 
-try reverting any content
-++++++++++++++++++++++++++
