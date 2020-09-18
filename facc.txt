@@ -25,3 +25,7 @@ add new line to branch 01
 add one more line for commit to branch_01
 
 test non fast-forward marge 
+
+1
+
+2
