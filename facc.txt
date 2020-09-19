@@ -28,4 +28,6 @@ test non fast-forward marge
 
 1
 
+new line for testing stash
+
 
